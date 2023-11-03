@@ -59,7 +59,7 @@ CLASSIFIERS = [
 
 ### Dependency section ###
 install_requires = [
-    'cython',
+    'cython==0.29.36',
     'numpy',
     'pyfftw'
 ]

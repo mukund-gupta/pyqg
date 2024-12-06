@@ -3,7 +3,7 @@ requires = [
     "importlib_metadata",
     "setuptools>=45",
     "setuptools_scm[toml]>=6.2",
-    "wheel",
+    "wheel==0.42.0",
     "cython==0.29.36",
     "pyfftw==v0.14.0",
     "numpy"

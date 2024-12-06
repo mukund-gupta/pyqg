@@ -5,6 +5,6 @@ requires = [
     "setuptools_scm[toml]>=6.2",
     "wheel",
     "cython==0.29.36",
-    "pyfftw",
+    "pyfftw==v0.14.0",
     "numpy"
 ]
